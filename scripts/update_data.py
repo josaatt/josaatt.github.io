@@ -48,21 +48,43 @@ def add_months(d: dt.date, n: int) -> dt.date:
     return dt.date(y, m, 1)
 
 
+
+def find_latest_complete_month(rows: list[dict], all_region_names: set[str]) -> dt.date | None:
+    from collections import defaultdict
+
+    # Group regions found for each month
+    regions_by_month = defaultdict(set)
+    for r in rows:
+        regions_by_month[r["month"]].add(r["region"])
+
+    # Find the latest month that has a complete set of regions
+    latest_complete = None
+    for month_str, region_set in regions_by_month.items():
+        if region_set == all_region_names:
+            try:
+                d = parse_month(month_str)
+                if latest_complete is None or d > latest_complete:
+                    latest_complete = d
+            except ValueError:
+                continue
+    return latest_complete
+
+
 def read_existing(path: str):
-    if not os.path.exists(path):
+    if not os.path.exists(path) or os.path.getsize(path) == 0:
         return [], set(), None
     with open(path, "r", encoding="utf-8") as f:
         rows = json.load(f)
+    
+    all_region_names = set(REGION_NAMES.values())
+    latest = find_latest_complete_month(rows, all_region_names)
+
+    # Filter out any partial data after the latest complete month
+    if latest:
+        latest_str = month_to_str(latest)
+        rows = [r for r in rows if r["month"] <= latest_str]
+
     seen = {(r.get("region"), r.get("month")) for r in rows}
-    # find latest month present across both regions
-    latest = None
-    for r in rows:
-        try:
-            d = parse_month(r.get("month", ""))
-        except Exception:
-            continue
-        if latest is None or d > latest:
-            latest = d
     return rows, seen, latest
 
 
