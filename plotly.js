@@ -75,8 +75,8 @@
     const htMain = '%{x|%b %Y} — %{customdata}: %{y:,.0f}<extra></extra>';
 
     const traces = [
-      { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:getCss('--line-a'), width:2}, marker:{color:getCss('--line-a')} },
-      { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:getCss('--line-b'), width:2}, marker:{color:getCss('--line-b')} },
+      { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:getCss('--line-a')||'#8b5e34', width:3}, marker:{color:getCss('--line-a')||'#8b5e34', size:6} },
+      { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:getCss('--line-b')||'#4b5563', width:3}, marker:{color:getCss('--line-b')||'#4b5563', size:6} },
     ];
 
     let diff = null, diffIdx = null;
@@ -95,17 +95,18 @@
       paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
       font: {color:getCss('--text')},
       grid: {rows:1, columns:1},
-      margin: {t:10, r:20, b:40, l:56},
+      margin: {t:10, r:24, b:56, l:64},
       xaxis: {title:'', type:'date', tickformat:'%b %Y', tickangle: 0, dtick:'M2', automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:getCss('--muted')},
       yaxis: {title: '', gridcolor:getCss('--grid'), color:getCss('--muted'), automargin:true, rangemode:'normal', range: mainRange, tickformat: ',.0f'},
       yaxis2: {overlaying:'y', side:'right', showgrid:false, color:getCss('--muted'), automargin:true, rangemode:'normal', range: diffRange || undefined, title: '', tickformat: ',.0f'},
-      legend: {orientation:'h', x:0, y:1.1},
+      legend: {orientation:'h', x:0, y:1.12, bgcolor:'rgba(255,255,255,0.6)', bordercolor:getCss('--beige'), borderwidth:1},
       hovermode:'x unified',
       hoverlabel: {bgcolor:getCss('--panel'), bordercolor:getCss('--beige'), font:{color:getCss('--text')}},
       locale: 'sv'
     };
 
     const config = {responsive:true, displaylogo:false, modeBarButtonsToRemove:['select2d','lasso2d'], locale:'sv'};
+    if(window.innerWidth < 700){ config.modeBarButtonsToRemove = [...config.modeBarButtonsToRemove, 'zoom2d','pan2d']; }
 
     Plotly.react(elChart, traces, layout, config);
   }
