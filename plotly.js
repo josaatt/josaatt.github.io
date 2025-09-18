@@ -75,8 +75,8 @@
     const htMain = '%{x|%b %Y} — %{customdata}: %{y:,.0f}<extra></extra>';
 
     const traces = [
-      { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:'#6aa9ff', width:2} },
-      { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:'#6ee7b7', width:2} },
+      { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:getCss('--line-a'), width:2}, marker:{color:getCss('--line-a')} },
+      { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:getCss('--line-b'), width:2}, marker:{color:getCss('--line-b')} },
     ];
 
     let diff = null, diffIdx = null;
@@ -84,7 +84,7 @@
       diff = yJ.map((v,i)=> (v ?? null) - (yN[i] ?? null));
       diffIdx = diff;
       const htDiff = '%{x|%b %Y} — Skillnad (J−N): %{y:,.0f}<extra></extra>';
-      traces.push({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:'#fbbf24', opacity:0.75}, yaxis: 'y2' });
+      traces.push({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:getCss('--diff'), opacity:0.85}, yaxis: 'y2' });
     }
 
     // Compute dynamic y ranges (avoid starting at 0 to see differences better)
@@ -93,15 +93,15 @@
 
     const layout = {
       paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
-      font: {color:'#e6eaf2'},
+      font: {color:getCss('--text')},
       grid: {rows:1, columns:1},
       margin: {t:10, r:20, b:40, l:56},
-      xaxis: {title:'', type:'date', tickformat:'%b %Y', tickangle: 0, dtick:'M2', automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:'#2a3252'},
-      yaxis: {title: '', gridcolor:'#2a3252', automargin:true, rangemode:'normal', range: mainRange, tickformat: ',.0f'},
-      yaxis2: {overlaying:'y', side:'right', showgrid:false, automargin:true, rangemode:'normal', range: diffRange || undefined, title: '', tickformat: ',.0f'},
+      xaxis: {title:'', type:'date', tickformat:'%b %Y', tickangle: 0, dtick:'M2', automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:getCss('--muted')},
+      yaxis: {title: '', gridcolor:getCss('--grid'), color:getCss('--muted'), automargin:true, rangemode:'normal', range: mainRange, tickformat: ',.0f'},
+      yaxis2: {overlaying:'y', side:'right', showgrid:false, color:getCss('--muted'), automargin:true, rangemode:'normal', range: diffRange || undefined, title: '', tickformat: ',.0f'},
       legend: {orientation:'h', x:0, y:1.1},
       hovermode:'x unified',
-      hoverlabel: {bgcolor:'#0e1430', bordercolor:'#26305a', font:{color:'#e6eaf2'}},
+      hoverlabel: {bgcolor:getCss('--panel'), bordercolor:getCss('--beige'), font:{color:getCss('--text')}},
       locale: 'sv'
     };
 
@@ -167,5 +167,8 @@
     const [y, rest] = m.split('M');
     const mm = (rest||'01').padStart(2,'0');
     return `${y}-${mm}-01`;
+  }
+  function getCss(varName){
+    try { return getComputedStyle(document.documentElement).getPropertyValue(varName).trim() || undefined; } catch(e) { return undefined; }
   }
 })();

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Folkmängd per månad – Norrköping vs Jönköping</title>
+  <title>Jönköping ./. Norrköping</title>
   <link rel="preconnect" href="https://cdn.plot.ly" crossorigin>
   <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-locale-sv-latest.js"></script>
@@ -13,26 +13,37 @@
   </script>
   <style>
     :root{
-      --bg:#0b1020; --panel:#141a2e; --text:#e6eaf2; --muted:#a8b0c3; --grid:#2a3252;
-      --norr:#6aa9ff; --jonk:#6ee7b7; --diff:#fbbf24;
+      --tea-green:#ccd5ae; /* Jönköping line */
+      --beige:#e9edc9;
+      --cornsilk:#fefae0;
+      --papaya:#faedcd;
+      --buff:#d4a373; /* Norrköping line */
+
+      --bg: var(--cornsilk);
+      --panel: #ffffff;
+      --text: #2b2b2b;
+      --muted: #6b6b6b;
+      --grid: #e2e2d5;
+
+      --line-a: var(--buff);
+      --line-b: var(--tea-green);
+      --diff: var(--beige);
     }
     *{box-sizing:border-box}
-    body{margin:0; font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial; background:linear-gradient(180deg,#0b1020,#0d1224); color:var(--text)}
-    header, main, footer{max-width:1200px; margin:0 auto; padding:16px 16px}
-    header h1{margin:6px 0 4px}
-    header p{margin:0; color:var(--muted)}
-    .panel{background:var(--panel); border:1px solid #182040; border-radius:14px; padding:12px}
-    .controls{display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:10px 0 14px}
+    body{margin:0; font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial; background:linear-gradient(180deg, var(--cornsilk), var(--beige)); color:var(--text)}
+    header, main{max-width:960px; margin:0 auto; padding:20px 16px}
+    header h1{margin:2px 0 12px; font-weight:600; letter-spacing:0.2px}
+    .panel{background:var(--panel); border:1px solid var(--beige); border-radius:14px; padding:12px}
+    .controls{display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:8px 0 12px}
     .controls label{color:var(--muted); font-size:14px}
-    select,button{background:#0f1530; color:var(--text); border:1px solid #26305a; border-radius:8px; padding:8px 10px}
+    select,button{background:#ffffff; color:var(--text); border:1px solid var(--beige); border-radius:8px; padding:8px 10px}
     button{cursor:pointer}
     #chart{width:100%; height:520px}
-    #info{color:var(--muted); font-size:13px; margin-top:8px}
   </style>
 </head>
 <body>
   <header>
-    <h1>Folkmängd per månad – Norrköping vs Jönköping</h1>
+    <h1>Jönköping ./. Norrköping</h1>
   </header>
   <main>
     <div class="panel">
