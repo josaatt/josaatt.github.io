@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Folkmängd per månad – Norrköping vs Jönköping</title>
+  <link rel="preconnect" href="https://cdn.plot.ly" crossorigin>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-locale-sv-latest.js"></script>
+  <script>
+    // Set global default locale to Swedish for Plotly
+    try { Plotly.setPlotConfig({ locale: 'sv' }); } catch(e) {}
+  </script>
+  <style>
+    :root{
+      --bg:#0b1020; --panel:#141a2e; --text:#e6eaf2; --muted:#a8b0c3; --grid:#2a3252;
+      --norr:#6aa9ff; --jonk:#6ee7b7; --diff:#fbbf24;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial; background:linear-gradient(180deg,#0b1020,#0d1224); color:var(--text)}
+    header, main, footer{max-width:1200px; margin:0 auto; padding:16px 16px}
+    header h1{margin:6px 0 4px}
+    header p{margin:0; color:var(--muted)}
+    .panel{background:var(--panel); border:1px solid #182040; border-radius:14px; padding:12px}
+    .controls{display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:10px 0 14px}
+    .controls label{color:var(--muted); font-size:14px}
+    select,button{background:#0f1530; color:var(--text); border:1px solid #26305a; border-radius:8px; padding:8px 10px}
+    button{cursor:pointer}
+    #chart{width:100%; height:520px}
+    #info{color:var(--muted); font-size:13px; margin-top:8px}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Folkmängd per månad – Norrköping vs Jönköping</h1>
+  </header>
+  <main>
+    <div class="panel">
+      <div class="controls">
+        <label for="range">Period</label>
+        <select id="range">
+          <option value="all">Hela serien</option>
+          <option value="60">Senaste 60 månader</option>
+          <option value="24" selected>Senaste 24 månader</option>
+          <option value="12">Senaste 12 månader</option>
+        </select>
+        <label><input type="checkbox" id="showDiff"> Visa skillnad (Jönköping − Norrköping)</label>
+      </div>
+      <div id="chart"></div>
+    </div>
+  </main>
+  <footer>
+    <p style="color:var(--muted)">Öppna denna sida via http://localhost (inte file://) för att undvika CORS-problem. Exempel: python -m http.server 8080 och besök http://localhost:8080/web/plotly.html</p>
+  </footer>
+  <script src="plotly.js"></script>
+</body>
+</html>
