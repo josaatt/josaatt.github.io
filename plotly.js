@@ -62,11 +62,21 @@
     // Dynamic x-axis tick density for readability
     let dtick = 'M2', tickangle = 0, tickformat = '%b %Y';
     const span = idx.length;
-    if (span >= 120) { dtick = 'M12'; tickangle = 0; tickformat = '%Y'; }
+    if (span >= 240) { dtick = 'M60'; tickangle = 0; tickformat = '%Y'; }        // every 5 years
+    else if (span >= 180) { dtick = 'M36'; tickangle = 0; tickformat = '%Y'; }    // every 3 years
+    else if (span >= 120) { dtick = 'M24'; tickangle = 0; tickformat = '%Y'; }    // every 2 years
     else if (span >= 60) { dtick = 'M6'; tickangle = -25; tickformat = '%b %y'; }
     else if (span >= 24) { dtick = 'M3'; tickangle = -20; tickformat = '%b %y'; }
     else if (span >= 12) { dtick = 'M2'; tickangle = -10; tickformat = '%b %y'; }
     else { dtick = 'M1'; tickangle = 0; tickformat = '%b %Y'; }
+
+    // Align ticks to January for long spans
+    let tick0 = undefined;
+    try {
+      const firstMonth = state.months[idx[0]] || '';
+      const year = (firstMonth.split('M')[0]) || '';
+      if (year) tick0 = `${year}-01-01`;
+    } catch(e) {}
 
     const regions = Object.keys(state.series || {}).sort();
     const [norrKey, jonkKey] = guessRegionKeys(regions);
@@ -106,7 +116,7 @@
       grid: {rows:1, columns:1},
       margin: {t:10, r:24, b:56, l:64},
       barmode: 'overlay', bargap: 0.0, bargroupgap: 0.0,
-      xaxis: {title:'', type:'date', tickformat: tickformat, tickangle: tickangle, dtick: dtick, automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:(getCss('--axis')||getCss('--text')||'#374151')},
+      xaxis: {title:'', type:'date', tickformat: tickformat, tickangle: tickangle, dtick: dtick, tick0: tick0, tickfont:{size: 11, color:(getCss('--axis')||getCss('--text')||'#374151')}, automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:(getCss('--axis')||getCss('--text')||'#374151')},
       yaxis: {title: '', gridcolor:getCss('--grid'), color:(getCss('--axis')||getCss('--text')||'#374151'), automargin:true, rangemode:'normal', range: mainRange, tickformat: ',.0f'},
       yaxis2: {overlaying:'y', side:'right', showgrid:false, color:getCss('--muted'), automargin:true, rangemode:'normal', range: diffRange || undefined, title: '', tickformat: ',.0f'},
       legend: {orientation:'h', x:0, y:1.12, bgcolor:'rgba(255,255,255,0.6)', bordercolor:getCss('--beige'), borderwidth:1},
