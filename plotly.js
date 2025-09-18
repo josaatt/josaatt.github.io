@@ -59,6 +59,14 @@
     const idx = state.viewIdx;
     const x = idx.map(i => toISODate(state.months[i]));
 
+    // Dynamic x-axis tick density for readability
+    let dtick = 'M2', tickangle = 0, tickformat = '%b %Y';
+    const span = idx.length;
+    if (span >= 60) { dtick = 'M6'; tickangle = -30; tickformat = '%b %y'; }
+    else if (span >= 24) { dtick = 'M3'; tickangle = -25; tickformat = '%b %y'; }
+    else if (span >= 12) { dtick = 'M2'; tickangle = -15; tickformat = '%b %y'; }
+    else { dtick = 'M1'; tickangle = 0; tickformat = '%b %Y'; }
+
     const regions = Object.keys(state.series || {}).sort();
     const [norrKey, jonkKey] = guessRegionKeys(regions);
 
@@ -84,7 +92,8 @@
       diff = yJ.map((v,i)=> (v ?? null) - (yN[i] ?? null));
       diffIdx = diff;
       const htDiff = '%{x|%b %Y} — Skillnad (J−N): %{y:,.0f}<extra></extra>';
-      traces.push({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:getCss('--diff'), opacity:0.85}, yaxis: 'y2' });
+      // Put bars behind by drawing them first
+      traces.unshift({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:getCss('--diff'), opacity:0.35, line:{width:0}}, yaxis: 'y2' });
     }
 
     // Compute dynamic y ranges (avoid starting at 0 to see differences better)
@@ -96,7 +105,8 @@
       font: {color:getCss('--text')},
       grid: {rows:1, columns:1},
       margin: {t:10, r:24, b:56, l:64},
-      xaxis: {title:'', type:'date', tickformat:'%b %Y', tickangle: 0, dtick:'M2', automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:getCss('--muted')},
+      barmode: 'overlay', bargap: 0.0, bargroupgap: 0.0,
+      xaxis: {title:'', type:'date', tickformat: tickformat, tickangle: tickangle, dtick: dtick, automargin:true, ticklabelmode:'period', ticklabelposition:'outside', rangeslider:{visible:false}, gridcolor:getCss('--grid'), color:getCss('--muted')},
       yaxis: {title: '', gridcolor:getCss('--grid'), color:getCss('--muted'), automargin:true, rangemode:'normal', range: mainRange, tickformat: ',.0f'},
       yaxis2: {overlaying:'y', side:'right', showgrid:false, color:getCss('--muted'), automargin:true, rangemode:'normal', range: diffRange || undefined, title: '', tickformat: ',.0f'},
       legend: {orientation:'h', x:0, y:1.12, bgcolor:'rgba(255,255,255,0.6)', bordercolor:getCss('--beige'), borderwidth:1},
