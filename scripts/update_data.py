@@ -82,9 +82,17 @@ def fetch_scb(months: list[str]) -> list[dict]:
     params = SCB_COMMON_PARAMS.copy()
     params["valueCodes[Tid]"] = ",".join(months)
     url = f"{SCB_BASE}?{urlencode(params, safe=',[ ]')}"
-    # SCB returns PC-Axis-like text in latin-1 for this endpoint
-    resp = requests.get(url, timeout=45)
-    resp.raise_for_status()
+
+    try:
+        # SCB returns PC-Axis-like text in latin-1 for this endpoint
+        resp = requests.get(url, timeout=45)
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 400:
+            print(f"Got 400 Bad Request from SCB API for months {months}. Assuming data is not yet available.", file=sys.stderr)
+            return []  # Return empty list, not an error
+        raise e # Re-raise other HTTP errors (like 500, 503)
+
     text = resp.content.decode("latin-1", errors="ignore")
 
     # Extract region code order
