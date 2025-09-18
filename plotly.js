@@ -98,11 +98,12 @@
     const widthJ = cbDiff.checked ? 4 : 3;
     const markerJ = {color: colorJ, size: cbDiff.checked ? 7 : 6, line:{width: cbDiff.checked ? 1.5 : 1, color:'#ffffff'}};
 
-    const colorN = (getCss('--line-a')||'#8b5e34');
-    const markerN = {color: colorN, size: 6, line:{width:1, color:'#ffffff'}};
+    const colorN = cbDiff.checked ? (getCss('--line-a-strong')||'#8b5e34') : (getCss('--line-a')||'#8b5e34');
+    const widthN = cbDiff.checked ? 4 : 3;
+    const markerN = {color: colorN, size: cbDiff.checked ? 7 : 6, line:{width: cbDiff.checked ? 1.5 : 1, color:'#ffffff'}};
 
     const traceJ = { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:colorJ, width:widthJ}, marker:markerJ, legendrank: 1 };
-    const traceN = { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:colorN, width:3}, marker:markerN, legendrank: 2 };
+    const traceN = { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:colorN, width:widthN}, marker:markerN, legendrank: 2 };
     const traces = [ traceJ, traceN ];
 
     let diff = null, diffIdx = null;
