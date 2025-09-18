@@ -161,36 +161,51 @@ def main():
     end = add_months(first_of_this, -1)
 
     if latest is None:
-        # If file missing, start at e.g. 2025-01 to end
-        # But better: do nothing to avoid wiping; user already has full history
+        # If file missing, do nothing to avoid wiping; user has full history
         print("No existing data found; skipping to avoid overwriting.", file=sys.stderr)
         return 0
 
     if latest >= end:
-        print("No new months to fetch.")
+        print("Data is already up to date.")
         return 0
 
-    months = months_between(latest, end)
-    print(f"Fetching months: {months}")
+    months_to_try = months_between(latest, end)
+    print(f"Potential months to fetch: {months_to_try}")
 
-    new_rows = fetch_scb(months)
-    added = 0
-    for r in new_rows:
+    successfully_fetched_rows = []
+    for month in months_to_try:
+        print(f"Attempting to fetch data for {month}...")
+        new_rows_for_month = fetch_scb([month])
+        
+        if not new_rows_for_month:
+            print(f"Stopping: Data for {month} is not available from SCB yet.")
+            break  # Stop at the first month that fails
+        
+        successfully_fetched_rows.extend(new_rows_for_month)
+
+    if not successfully_fetched_rows:
+        print("No new data was added.")
+        return 0
+
+    added_count = 0
+    for r in successfully_fetched_rows:
         key = (r["region"], r["month"])
-        if key in seen:
-            continue
-        rows.append(r)
-        seen.add(key)
-        added += 1
+        if key not in seen:
+            rows.append(r)
+            seen.add(key)
+            added_count += 1
 
-    if added == 0:
-        print("No new rows added.")
+    if added_count == 0:
+        print("Data was fetched, but all rows were already present in the file.")
         return 0
 
     # Keep stable order by month then region for readability
     def sort_key(r):
-        d = parse_month(r["month"]) if MONTH_RE.match(r["month"]) else dt.date.min
-        return (d, r["region"])  # month asc, region asc
+        try:
+            d = parse_month(r["month"])
+        except (ValueError, TypeError):
+            d = dt.date.min
+        return (d, r.get("region", ""))  # month asc, region asc
 
     rows.sort(key=sort_key)
 
@@ -198,7 +213,7 @@ def main():
         json.dump(rows, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
-    print(f"Wrote {added} new rows to {os.path.basename(DATA_FILE)}")
+    print(f"Wrote {added_count} new rows to {os.path.basename(DATA_FILE)}")
     return 0
 
 
