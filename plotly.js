@@ -83,10 +83,9 @@
     const cdJ = Array(x.length).fill(jonkName);
     const htMain = '%{x|%b %Y} — %{customdata}: %{y:,.0f}<extra></extra>';
 
-    const traces = [
-      { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:getCss('--line-a')||'#8b5e34', width:3}, marker:{color:getCss('--line-a')||'#8b5e34', size:6} },
-      { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:getCss('--line-b')||'#4b5563', width:3}, marker:{color:getCss('--line-b')||'#4b5563', size:6} },
-    ];
+    const traceJ = { x, y: yJplot, type:'scatter', mode:'lines+markers', name: jonkName, customdata: cdJ, hovertemplate: htMain, line:{color:getCss('--line-b')||'#4b5563', width:3}, marker:{color:getCss('--line-b')||'#4b5563', size:6}, legendrank: 1 };
+    const traceN = { x, y: yNplot, type:'scatter', mode:'lines+markers', name: norrName, customdata: cdN, hovertemplate: htMain, line:{color:getCss('--line-a')||'#8b5e34', width:3}, marker:{color:getCss('--line-a')||'#8b5e34', size:6}, legendrank: 2 };
+    const traces = [ traceJ, traceN ];
 
     let diff = null, diffIdx = null;
     if(cbDiff.checked){
@@ -94,7 +93,7 @@
       diffIdx = diff;
       const htDiff = '%{x|%b %Y} — Skillnad (J−N): %{y:,.0f}<extra></extra>';
       // Put bars behind by drawing them first
-      traces.unshift({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:(getCss('--diff-strong')||'#a27a4f'), opacity:0.6, line:{width:0}}, yaxis: 'y2' });
+      traces.unshift({ x, y: diffIdx, type:'bar', name:'Skillnad', hovertemplate: htDiff, marker:{color:(getCss('--diff-strong')||'#a27a4f'), opacity:0.6, line:{width:0}}, yaxis: 'y2', legendrank: 99 });
     }
 
     // Compute dynamic y ranges (avoid starting at 0 to see differences better)
