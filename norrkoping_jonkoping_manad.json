@@ -1,1543 +1,13 @@
 [
   {
-    "region": "Norrköping",
-    "month": "2000M01",
-    "population": 122156
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M02",
-    "population": 122149
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M03",
-    "population": 122129
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M04",
-    "population": 122130
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M05",
-    "population": 122115
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M06",
-    "population": 122134
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M07",
-    "population": 122202
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M08",
-    "population": 122298
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M09",
-    "population": 122278
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M10",
-    "population": 122199
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M11",
-    "population": 122213
-  },
-  {
-    "region": "Norrköping",
-    "month": "2000M12",
-    "population": 122199
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M01",
-    "population": 122242
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M02",
-    "population": 122218
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M03",
-    "population": 122256
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M04",
-    "population": 122306
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M05",
-    "population": 122301
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M06",
-    "population": 122424
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M07",
-    "population": 122571
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M08",
-    "population": 122801
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M09",
-    "population": 122878
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M10",
-    "population": 122868
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M11",
-    "population": 122874
-  },
-  {
-    "region": "Norrköping",
-    "month": "2001M12",
-    "population": 122896
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M01",
-    "population": 122925
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M02",
-    "population": 123002
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M03",
-    "population": 123067
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M04",
-    "population": 123069
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M05",
-    "population": 123066
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M06",
-    "population": 123080
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M07",
-    "population": 123094
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M08",
-    "population": 123174
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M09",
-    "population": 123202
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M10",
-    "population": 123231
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M11",
-    "population": 123222
-  },
-  {
-    "region": "Norrköping",
-    "month": "2002M12",
-    "population": 123303
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M01",
-    "population": 123361
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M02",
-    "population": 123432
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M03",
-    "population": 123500
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M04",
-    "population": 123546
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M05",
-    "population": 123577
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M06",
-    "population": 123638
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M07",
-    "population": 123728
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M08",
-    "population": 123869
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M09",
-    "population": 123917
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M10",
-    "population": 123936
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M11",
-    "population": 123955
-  },
-  {
-    "region": "Norrköping",
-    "month": "2003M12",
-    "population": 123971
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M01",
-    "population": 123992
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M02",
-    "population": 124036
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M03",
-    "population": 124103
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M04",
-    "population": 124171
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M05",
-    "population": 124163
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M06",
-    "population": 124179
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M07",
-    "population": 124239
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M08",
-    "population": 124353
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M09",
-    "population": 124387
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M10",
-    "population": 124375
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M11",
-    "population": 124422
-  },
-  {
-    "region": "Norrköping",
-    "month": "2004M12",
-    "population": 124410
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M01",
-    "population": 124434
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M02",
-    "population": 124450
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M03",
-    "population": 124480
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M04",
-    "population": 124450
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M05",
-    "population": 124480
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M06",
-    "population": 124525
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M07",
-    "population": 124517
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M08",
-    "population": 124535
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M09",
-    "population": 124635
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M10",
-    "population": 124607
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M11",
-    "population": 124623
-  },
-  {
-    "region": "Norrköping",
-    "month": "2005M12",
-    "population": 124642
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M01",
-    "population": 124675
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M02",
-    "population": 124712
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M03",
-    "population": 124729
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M04",
-    "population": 124861
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M05",
-    "population": 124918
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M06",
-    "population": 124997
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M07",
-    "population": 125089
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M08",
-    "population": 125154
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M09",
-    "population": 125261
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M10",
-    "population": 125305
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M11",
-    "population": 125390
-  },
-  {
-    "region": "Norrköping",
-    "month": "2006M12",
-    "population": 125463
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M01",
-    "population": 125556
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M02",
-    "population": 125628
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M03",
-    "population": 125709
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M04",
-    "population": 125784
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M05",
-    "population": 125818
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M06",
-    "population": 125935
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M07",
-    "population": 125990
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M08",
-    "population": 126218
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M09",
-    "population": 126338
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M10",
-    "population": 126485
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M11",
-    "population": 126592
-  },
-  {
-    "region": "Norrköping",
-    "month": "2007M12",
-    "population": 126680
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M01",
-    "population": 126816
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M02",
-    "population": 126844
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M03",
-    "population": 126844
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M04",
-    "population": 126936
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M05",
-    "population": 127090
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M06",
-    "population": 127288
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M07",
-    "population": 127383
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M08",
-    "population": 127681
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M09",
-    "population": 127746
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M10",
-    "population": 127922
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M11",
-    "population": 127931
-  },
-  {
-    "region": "Norrköping",
-    "month": "2008M12",
-    "population": 128060
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M01",
-    "population": 128030
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M02",
-    "population": 128163
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M03",
-    "population": 128256
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M04",
-    "population": 128329
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M05",
-    "population": 128395
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M06",
-    "population": 128537
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M07",
-    "population": 128603
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M08",
-    "population": 128854
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M09",
-    "population": 128992
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M10",
-    "population": 129133
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M11",
-    "population": 129186
-  },
-  {
-    "region": "Norrköping",
-    "month": "2009M12",
-    "population": 129254
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M01",
-    "population": 129364
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M02",
-    "population": 129336
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M03",
-    "population": 129421
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M04",
-    "population": 129440
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M05",
-    "population": 129534
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M06",
-    "population": 129566
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M07",
-    "population": 129702
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M08",
-    "population": 129814
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M09",
-    "population": 129867
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M10",
-    "population": 129989
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M11",
-    "population": 130028
-  },
-  {
-    "region": "Norrköping",
-    "month": "2010M12",
-    "population": 130050
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M01",
-    "population": 130100
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M02",
-    "population": 130088
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M03",
-    "population": 130099
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M04",
-    "population": 130108
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M05",
-    "population": 130162
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M06",
-    "population": 130289
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M07",
-    "population": 130400
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M08",
-    "population": 130592
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M09",
-    "population": 130671
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M10",
-    "population": 130641
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M11",
-    "population": 130662
-  },
-  {
-    "region": "Norrköping",
-    "month": "2011M12",
-    "population": 130623
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M01",
-    "population": 130654
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M02",
-    "population": 130681
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M03",
-    "population": 130786
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M04",
-    "population": 130826
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M05",
-    "population": 131035
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M06",
-    "population": 131169
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M07",
-    "population": 131436
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M08",
-    "population": 131677
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M09",
-    "population": 131804
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M10",
-    "population": 131932
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M11",
-    "population": 131963
-  },
-  {
-    "region": "Norrköping",
-    "month": "2012M12",
-    "population": 132124
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M01",
-    "population": 132341
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M02",
-    "population": 132422
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M03",
-    "population": 132499
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M04",
-    "population": 132674
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M05",
-    "population": 132805
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M06",
-    "population": 133012
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M07",
-    "population": 133105
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M08",
-    "population": 133280
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M09",
-    "population": 133444
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M10",
-    "population": 133673
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M11",
-    "population": 133761
-  },
-  {
-    "region": "Norrköping",
-    "month": "2013M12",
-    "population": 133749
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M01",
-    "population": 133822
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M02",
-    "population": 133928
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M03",
-    "population": 134065
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M04",
-    "population": 134194
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M05",
-    "population": 134335
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M06",
-    "population": 134527
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M07",
-    "population": 134641
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M08",
-    "population": 134785
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M09",
-    "population": 134947
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M10",
-    "population": 135099
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M11",
-    "population": 135202
-  },
-  {
-    "region": "Norrköping",
-    "month": "2014M12",
-    "population": 135283
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M01",
-    "population": 135420
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M02",
-    "population": 135558
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M03",
-    "population": 135679
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M04",
-    "population": 135834
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M05",
-    "population": 135953
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M06",
-    "population": 136124
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M07",
-    "population": 136302
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M08",
-    "population": 136447
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M09",
-    "population": 136678
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M10",
-    "population": 136797
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M11",
-    "population": 136989
-  },
-  {
-    "region": "Norrköping",
-    "month": "2015M12",
-    "population": 137035
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M01",
-    "population": 137095
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M02",
-    "population": 137146
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M03",
-    "population": 137326
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M04",
-    "population": 137514
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M05",
-    "population": 137773
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M06",
-    "population": 137985
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M07",
-    "population": 138230
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M08",
-    "population": 138501
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M09",
-    "population": 138625
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M10",
-    "population": 138813
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M11",
-    "population": 139023
-  },
-  {
-    "region": "Norrköping",
-    "month": "2016M12",
-    "population": 139363
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M01",
-    "population": 139559
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M02",
-    "population": 139728
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M03",
-    "population": 139950
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M04",
-    "population": 140031
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M05",
-    "population": 140206
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M06",
-    "population": 140338
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M07",
-    "population": 140556
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M08",
-    "population": 140686
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M09",
-    "population": 140780
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M10",
-    "population": 140842
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M11",
-    "population": 140832
-  },
-  {
-    "region": "Norrköping",
-    "month": "2017M12",
-    "population": 140927
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M01",
-    "population": 140931
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M02",
-    "population": 140959
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M03",
-    "population": 140991
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M04",
-    "population": 141063
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M05",
-    "population": 141147
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M06",
-    "population": 141319
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M07",
-    "population": 141367
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M08",
-    "population": 141476
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M09",
-    "population": 141441
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M10",
-    "population": 141542
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M11",
-    "population": 141622
-  },
-  {
-    "region": "Norrköping",
-    "month": "2018M12",
-    "population": 141676
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M01",
-    "population": 141739
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M02",
-    "population": 141861
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M03",
-    "population": 141987
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M04",
-    "population": 142129
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M05",
-    "population": 142228
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M06",
-    "population": 142401
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M07",
-    "population": 142608
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M08",
-    "population": 142745
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M09",
-    "population": 142818
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M10",
-    "population": 142908
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M11",
-    "population": 143040
-  },
-  {
-    "region": "Norrköping",
-    "month": "2019M12",
-    "population": 143171
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M01",
-    "population": 143235
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M02",
-    "population": 143284
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M03",
-    "population": 143333
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M04",
-    "population": 143216
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M05",
-    "population": 143265
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M06",
-    "population": 143270
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M07",
-    "population": 143419
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M08",
-    "population": 143562
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M09",
-    "population": 143574
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M10",
-    "population": 143495
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M11",
-    "population": 143501
-  },
-  {
-    "region": "Norrköping",
-    "month": "2020M12",
-    "population": 143478
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M01",
-    "population": 143489
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M02",
-    "population": 143562
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M03",
-    "population": 143599
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M04",
-    "population": 143669
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M05",
-    "population": 143785
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M06",
-    "population": 143872
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M07",
-    "population": 143935
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M08",
-    "population": 144079
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M09",
-    "population": 144128
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M10",
-    "population": 144309
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M11",
-    "population": 144450
-  },
-  {
-    "region": "Norrköping",
-    "month": "2021M12",
-    "population": 144458
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M01",
-    "population": 144478
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M02",
-    "population": 144553
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M03",
-    "population": 144610
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M04",
-    "population": 144629
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M05",
-    "population": 144671
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M06",
-    "population": 144845
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M07",
-    "population": 144993
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M08",
-    "population": 145160
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M09",
-    "population": 145176
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M10",
-    "population": 145152
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M11",
-    "population": 145180
-  },
-  {
-    "region": "Norrköping",
-    "month": "2022M12",
-    "population": 145120
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M01",
-    "population": 145135
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M02",
-    "population": 145194
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M03",
-    "population": 145196
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M04",
-    "population": 145303
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M05",
-    "population": 145308
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M06",
-    "population": 145418
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M07",
-    "population": 145388
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M08",
-    "population": 145320
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M09",
-    "population": 145283
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M10",
-    "population": 145219
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M11",
-    "population": 145166
-  },
-  {
-    "region": "Norrköping",
-    "month": "2023M12",
-    "population": 145163
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M01",
-    "population": 145091
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M02",
-    "population": 145022
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M03",
-    "population": 144955
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M04",
-    "population": 144890
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M05",
-    "population": 144866
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M06",
-    "population": 144938
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M07",
-    "population": 145024
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M08",
-    "population": 145023
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M09",
-    "population": 144932
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M10",
-    "population": 144999
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M11",
-    "population": 144972
-  },
-  {
-    "region": "Norrköping",
-    "month": "2024M12",
-    "population": 144980
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M01",
-    "population": 144978
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M02",
-    "population": 144951
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M03",
-    "population": 144872
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M04",
-    "population": 144902
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M05",
-    "population": 144853
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M06",
-    "population": 144939
-  },
-  {
-    "region": "Norrköping",
-    "month": "2025M07",
-    "population": 144997
-  },
-  {
     "region": "Jönköping",
     "month": "2000M01",
     "population": 116411
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M01",
+    "population": 122156
   },
   {
     "region": "Jönköping",
@@ -1545,9 +15,19 @@
     "population": 116451
   },
   {
+    "region": "Norrköping",
+    "month": "2000M02",
+    "population": 122149
+  },
+  {
     "region": "Jönköping",
     "month": "2000M03",
     "population": 116506
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M03",
+    "population": 122129
   },
   {
     "region": "Jönköping",
@@ -1555,9 +35,19 @@
     "population": 116540
   },
   {
+    "region": "Norrköping",
+    "month": "2000M04",
+    "population": 122130
+  },
+  {
     "region": "Jönköping",
     "month": "2000M05",
     "population": 116539
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M05",
+    "population": 122115
   },
   {
     "region": "Jönköping",
@@ -1565,9 +55,19 @@
     "population": 116582
   },
   {
+    "region": "Norrköping",
+    "month": "2000M06",
+    "population": 122134
+  },
+  {
     "region": "Jönköping",
     "month": "2000M07",
     "population": 116602
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M07",
+    "population": 122202
   },
   {
     "region": "Jönköping",
@@ -1575,9 +75,19 @@
     "population": 116838
   },
   {
+    "region": "Norrköping",
+    "month": "2000M08",
+    "population": 122298
+  },
+  {
     "region": "Jönköping",
     "month": "2000M09",
     "population": 116878
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M09",
+    "population": 122278
   },
   {
     "region": "Jönköping",
@@ -1585,9 +95,19 @@
     "population": 116963
   },
   {
+    "region": "Norrköping",
+    "month": "2000M10",
+    "population": 122199
+  },
+  {
     "region": "Jönköping",
     "month": "2000M11",
     "population": 117037
+  },
+  {
+    "region": "Norrköping",
+    "month": "2000M11",
+    "population": 122213
   },
   {
     "region": "Jönköping",
@@ -1595,9 +115,19 @@
     "population": 117095
   },
   {
+    "region": "Norrköping",
+    "month": "2000M12",
+    "population": 122199
+  },
+  {
     "region": "Jönköping",
     "month": "2001M01",
     "population": 117136
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M01",
+    "population": 122242
   },
   {
     "region": "Jönköping",
@@ -1605,9 +135,19 @@
     "population": 117233
   },
   {
+    "region": "Norrköping",
+    "month": "2001M02",
+    "population": 122218
+  },
+  {
     "region": "Jönköping",
     "month": "2001M03",
     "population": 117261
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M03",
+    "population": 122256
   },
   {
     "region": "Jönköping",
@@ -1615,9 +155,19 @@
     "population": 117299
   },
   {
+    "region": "Norrköping",
+    "month": "2001M04",
+    "population": 122306
+  },
+  {
     "region": "Jönköping",
     "month": "2001M05",
     "population": 117311
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M05",
+    "population": 122301
   },
   {
     "region": "Jönköping",
@@ -1625,9 +175,19 @@
     "population": 117265
   },
   {
+    "region": "Norrköping",
+    "month": "2001M06",
+    "population": 122424
+  },
+  {
     "region": "Jönköping",
     "month": "2001M07",
     "population": 117314
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M07",
+    "population": 122571
   },
   {
     "region": "Jönköping",
@@ -1635,9 +195,19 @@
     "population": 117660
   },
   {
+    "region": "Norrköping",
+    "month": "2001M08",
+    "population": 122801
+  },
+  {
     "region": "Jönköping",
     "month": "2001M09",
     "population": 117846
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M09",
+    "population": 122878
   },
   {
     "region": "Jönköping",
@@ -1645,9 +215,19 @@
     "population": 117881
   },
   {
+    "region": "Norrköping",
+    "month": "2001M10",
+    "population": 122868
+  },
+  {
     "region": "Jönköping",
     "month": "2001M11",
     "population": 117892
+  },
+  {
+    "region": "Norrköping",
+    "month": "2001M11",
+    "population": 122874
   },
   {
     "region": "Jönköping",
@@ -1655,9 +235,19 @@
     "population": 117896
   },
   {
+    "region": "Norrköping",
+    "month": "2001M12",
+    "population": 122896
+  },
+  {
     "region": "Jönköping",
     "month": "2002M01",
     "population": 117866
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M01",
+    "population": 122925
   },
   {
     "region": "Jönköping",
@@ -1665,9 +255,19 @@
     "population": 117925
   },
   {
+    "region": "Norrköping",
+    "month": "2002M02",
+    "population": 123002
+  },
+  {
     "region": "Jönköping",
     "month": "2002M03",
     "population": 118021
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M03",
+    "population": 123067
   },
   {
     "region": "Jönköping",
@@ -1675,9 +275,19 @@
     "population": 118102
   },
   {
+    "region": "Norrköping",
+    "month": "2002M04",
+    "population": 123069
+  },
+  {
     "region": "Jönköping",
     "month": "2002M05",
     "population": 118052
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M05",
+    "population": 123066
   },
   {
     "region": "Jönköping",
@@ -1685,9 +295,19 @@
     "population": 118009
   },
   {
+    "region": "Norrköping",
+    "month": "2002M06",
+    "population": 123080
+  },
+  {
     "region": "Jönköping",
     "month": "2002M07",
     "population": 118128
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M07",
+    "population": 123094
   },
   {
     "region": "Jönköping",
@@ -1695,9 +315,19 @@
     "population": 118387
   },
   {
+    "region": "Norrköping",
+    "month": "2002M08",
+    "population": 123174
+  },
+  {
     "region": "Jönköping",
     "month": "2002M09",
     "population": 118436
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M09",
+    "population": 123202
   },
   {
     "region": "Jönköping",
@@ -1705,9 +335,19 @@
     "population": 118487
   },
   {
+    "region": "Norrköping",
+    "month": "2002M10",
+    "population": 123231
+  },
+  {
     "region": "Jönköping",
     "month": "2002M11",
     "population": 118549
+  },
+  {
+    "region": "Norrköping",
+    "month": "2002M11",
+    "population": 123222
   },
   {
     "region": "Jönköping",
@@ -1715,9 +355,19 @@
     "population": 118581
   },
   {
+    "region": "Norrköping",
+    "month": "2002M12",
+    "population": 123303
+  },
+  {
     "region": "Jönköping",
     "month": "2003M01",
     "population": 118630
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M01",
+    "population": 123361
   },
   {
     "region": "Jönköping",
@@ -1725,9 +375,19 @@
     "population": 118686
   },
   {
+    "region": "Norrköping",
+    "month": "2003M02",
+    "population": 123432
+  },
+  {
     "region": "Jönköping",
     "month": "2003M03",
     "population": 118754
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M03",
+    "population": 123500
   },
   {
     "region": "Jönköping",
@@ -1735,9 +395,19 @@
     "population": 118854
   },
   {
+    "region": "Norrköping",
+    "month": "2003M04",
+    "population": 123546
+  },
+  {
     "region": "Jönköping",
     "month": "2003M05",
     "population": 118847
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M05",
+    "population": 123577
   },
   {
     "region": "Jönköping",
@@ -1745,9 +415,19 @@
     "population": 118885
   },
   {
+    "region": "Norrköping",
+    "month": "2003M06",
+    "population": 123638
+  },
+  {
     "region": "Jönköping",
     "month": "2003M07",
     "population": 119023
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M07",
+    "population": 123728
   },
   {
     "region": "Jönköping",
@@ -1755,9 +435,19 @@
     "population": 119313
   },
   {
+    "region": "Norrköping",
+    "month": "2003M08",
+    "population": 123869
+  },
+  {
     "region": "Jönköping",
     "month": "2003M09",
     "population": 119409
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M09",
+    "population": 123917
   },
   {
     "region": "Jönköping",
@@ -1765,9 +455,19 @@
     "population": 119409
   },
   {
+    "region": "Norrköping",
+    "month": "2003M10",
+    "population": 123936
+  },
+  {
     "region": "Jönköping",
     "month": "2003M11",
     "population": 119394
+  },
+  {
+    "region": "Norrköping",
+    "month": "2003M11",
+    "population": 123955
   },
   {
     "region": "Jönköping",
@@ -1775,9 +475,19 @@
     "population": 119340
   },
   {
+    "region": "Norrköping",
+    "month": "2003M12",
+    "population": 123971
+  },
+  {
     "region": "Jönköping",
     "month": "2004M01",
     "population": 119361
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M01",
+    "population": 123992
   },
   {
     "region": "Jönköping",
@@ -1785,9 +495,19 @@
     "population": 119368
   },
   {
+    "region": "Norrköping",
+    "month": "2004M02",
+    "population": 124036
+  },
+  {
     "region": "Jönköping",
     "month": "2004M03",
     "population": 119390
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M03",
+    "population": 124103
   },
   {
     "region": "Jönköping",
@@ -1795,9 +515,19 @@
     "population": 119393
   },
   {
+    "region": "Norrköping",
+    "month": "2004M04",
+    "population": 124171
+  },
+  {
     "region": "Jönköping",
     "month": "2004M05",
     "population": 119398
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M05",
+    "population": 124163
   },
   {
     "region": "Jönköping",
@@ -1805,9 +535,19 @@
     "population": 119475
   },
   {
+    "region": "Norrköping",
+    "month": "2004M06",
+    "population": 124179
+  },
+  {
     "region": "Jönköping",
     "month": "2004M07",
     "population": 119497
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M07",
+    "population": 124239
   },
   {
     "region": "Jönköping",
@@ -1815,9 +555,19 @@
     "population": 119884
   },
   {
+    "region": "Norrköping",
+    "month": "2004M08",
+    "population": 124353
+  },
+  {
     "region": "Jönköping",
     "month": "2004M09",
     "population": 119967
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M09",
+    "population": 124387
   },
   {
     "region": "Jönköping",
@@ -1825,9 +575,19 @@
     "population": 119970
   },
   {
+    "region": "Norrköping",
+    "month": "2004M10",
+    "population": 124375
+  },
+  {
     "region": "Jönköping",
     "month": "2004M11",
     "population": 119960
+  },
+  {
+    "region": "Norrköping",
+    "month": "2004M11",
+    "population": 124422
   },
   {
     "region": "Jönköping",
@@ -1835,9 +595,19 @@
     "population": 119927
   },
   {
+    "region": "Norrköping",
+    "month": "2004M12",
+    "population": 124410
+  },
+  {
     "region": "Jönköping",
     "month": "2005M01",
     "population": 119962
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M01",
+    "population": 124434
   },
   {
     "region": "Jönköping",
@@ -1845,9 +615,19 @@
     "population": 120099
   },
   {
+    "region": "Norrköping",
+    "month": "2005M02",
+    "population": 124450
+  },
+  {
     "region": "Jönköping",
     "month": "2005M03",
     "population": 120152
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M03",
+    "population": 124480
   },
   {
     "region": "Jönköping",
@@ -1855,9 +635,19 @@
     "population": 120171
   },
   {
+    "region": "Norrköping",
+    "month": "2005M04",
+    "population": 124450
+  },
+  {
     "region": "Jönköping",
     "month": "2005M05",
     "population": 120153
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M05",
+    "population": 124480
   },
   {
     "region": "Jönköping",
@@ -1865,9 +655,19 @@
     "population": 120166
   },
   {
+    "region": "Norrköping",
+    "month": "2005M06",
+    "population": 124525
+  },
+  {
     "region": "Jönköping",
     "month": "2005M07",
     "population": 120223
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M07",
+    "population": 124517
   },
   {
     "region": "Jönköping",
@@ -1875,9 +675,19 @@
     "population": 120517
   },
   {
+    "region": "Norrköping",
+    "month": "2005M08",
+    "population": 124535
+  },
+  {
     "region": "Jönköping",
     "month": "2005M09",
     "population": 120729
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M09",
+    "population": 124635
   },
   {
     "region": "Jönköping",
@@ -1885,9 +695,19 @@
     "population": 120838
   },
   {
+    "region": "Norrköping",
+    "month": "2005M10",
+    "population": 124607
+  },
+  {
     "region": "Jönköping",
     "month": "2005M11",
     "population": 120931
+  },
+  {
+    "region": "Norrköping",
+    "month": "2005M11",
+    "population": 124623
   },
   {
     "region": "Jönköping",
@@ -1895,9 +715,19 @@
     "population": 120965
   },
   {
+    "region": "Norrköping",
+    "month": "2005M12",
+    "population": 124642
+  },
+  {
     "region": "Jönköping",
     "month": "2006M01",
     "population": 121026
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M01",
+    "population": 124675
   },
   {
     "region": "Jönköping",
@@ -1905,9 +735,19 @@
     "population": 121180
   },
   {
+    "region": "Norrköping",
+    "month": "2006M02",
+    "population": 124712
+  },
+  {
     "region": "Jönköping",
     "month": "2006M03",
     "population": 121229
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M03",
+    "population": 124729
   },
   {
     "region": "Jönköping",
@@ -1915,9 +755,19 @@
     "population": 121238
   },
   {
+    "region": "Norrköping",
+    "month": "2006M04",
+    "population": 124861
+  },
+  {
     "region": "Jönköping",
     "month": "2006M05",
     "population": 121309
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M05",
+    "population": 124918
   },
   {
     "region": "Jönköping",
@@ -1925,9 +775,19 @@
     "population": 121256
   },
   {
+    "region": "Norrköping",
+    "month": "2006M06",
+    "population": 124997
+  },
+  {
     "region": "Jönköping",
     "month": "2006M07",
     "population": 121348
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M07",
+    "population": 125089
   },
   {
     "region": "Jönköping",
@@ -1935,9 +795,19 @@
     "population": 121745
   },
   {
+    "region": "Norrköping",
+    "month": "2006M08",
+    "population": 125154
+  },
+  {
     "region": "Jönköping",
     "month": "2006M09",
     "population": 121871
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M09",
+    "population": 125261
   },
   {
     "region": "Jönköping",
@@ -1945,9 +815,19 @@
     "population": 121983
   },
   {
+    "region": "Norrköping",
+    "month": "2006M10",
+    "population": 125305
+  },
+  {
     "region": "Jönköping",
     "month": "2006M11",
     "population": 122087
+  },
+  {
+    "region": "Norrköping",
+    "month": "2006M11",
+    "population": 125390
   },
   {
     "region": "Jönköping",
@@ -1955,9 +835,19 @@
     "population": 122194
   },
   {
+    "region": "Norrköping",
+    "month": "2006M12",
+    "population": 125463
+  },
+  {
     "region": "Jönköping",
     "month": "2007M01",
     "population": 122272
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M01",
+    "population": 125556
   },
   {
     "region": "Jönköping",
@@ -1965,9 +855,19 @@
     "population": 122336
   },
   {
+    "region": "Norrköping",
+    "month": "2007M02",
+    "population": 125628
+  },
+  {
     "region": "Jönköping",
     "month": "2007M03",
     "population": 122383
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M03",
+    "population": 125709
   },
   {
     "region": "Jönköping",
@@ -1975,9 +875,19 @@
     "population": 122451
   },
   {
+    "region": "Norrköping",
+    "month": "2007M04",
+    "population": 125784
+  },
+  {
     "region": "Jönköping",
     "month": "2007M05",
     "population": 122524
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M05",
+    "population": 125818
   },
   {
     "region": "Jönköping",
@@ -1985,9 +895,19 @@
     "population": 122524
   },
   {
+    "region": "Norrköping",
+    "month": "2007M06",
+    "population": 125935
+  },
+  {
     "region": "Jönköping",
     "month": "2007M07",
     "population": 122651
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M07",
+    "population": 125990
   },
   {
     "region": "Jönköping",
@@ -1995,9 +915,19 @@
     "population": 123152
   },
   {
+    "region": "Norrköping",
+    "month": "2007M08",
+    "population": 126218
+  },
+  {
     "region": "Jönköping",
     "month": "2007M09",
     "population": 123375
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M09",
+    "population": 126338
   },
   {
     "region": "Jönköping",
@@ -2005,9 +935,19 @@
     "population": 123502
   },
   {
+    "region": "Norrköping",
+    "month": "2007M10",
+    "population": 126485
+  },
+  {
     "region": "Jönköping",
     "month": "2007M11",
     "population": 123677
+  },
+  {
+    "region": "Norrköping",
+    "month": "2007M11",
+    "population": 126592
   },
   {
     "region": "Jönköping",
@@ -2015,9 +955,19 @@
     "population": 123709
   },
   {
+    "region": "Norrköping",
+    "month": "2007M12",
+    "population": 126680
+  },
+  {
     "region": "Jönköping",
     "month": "2008M01",
     "population": 123772
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M01",
+    "population": 126816
   },
   {
     "region": "Jönköping",
@@ -2025,9 +975,19 @@
     "population": 123841
   },
   {
+    "region": "Norrköping",
+    "month": "2008M02",
+    "population": 126844
+  },
+  {
     "region": "Jönköping",
     "month": "2008M03",
     "population": 123885
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M03",
+    "population": 126844
   },
   {
     "region": "Jönköping",
@@ -2035,9 +995,19 @@
     "population": 123988
   },
   {
+    "region": "Norrköping",
+    "month": "2008M04",
+    "population": 126936
+  },
+  {
     "region": "Jönköping",
     "month": "2008M05",
     "population": 124061
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M05",
+    "population": 127090
   },
   {
     "region": "Jönköping",
@@ -2045,9 +1015,19 @@
     "population": 124022
   },
   {
+    "region": "Norrköping",
+    "month": "2008M06",
+    "population": 127288
+  },
+  {
     "region": "Jönköping",
     "month": "2008M07",
     "population": 124103
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M07",
+    "population": 127383
   },
   {
     "region": "Jönköping",
@@ -2055,9 +1035,19 @@
     "population": 124651
   },
   {
+    "region": "Norrköping",
+    "month": "2008M08",
+    "population": 127681
+  },
+  {
     "region": "Jönköping",
     "month": "2008M09",
     "population": 124883
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M09",
+    "population": 127746
   },
   {
     "region": "Jönköping",
@@ -2065,9 +1055,19 @@
     "population": 125064
   },
   {
+    "region": "Norrköping",
+    "month": "2008M10",
+    "population": 127922
+  },
+  {
     "region": "Jönköping",
     "month": "2008M11",
     "population": 125117
+  },
+  {
+    "region": "Norrköping",
+    "month": "2008M11",
+    "population": 127931
   },
   {
     "region": "Jönköping",
@@ -2075,9 +1075,19 @@
     "population": 125154
   },
   {
+    "region": "Norrköping",
+    "month": "2008M12",
+    "population": 128060
+  },
+  {
     "region": "Jönköping",
     "month": "2009M01",
     "population": 125220
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M01",
+    "population": 128030
   },
   {
     "region": "Jönköping",
@@ -2085,9 +1095,19 @@
     "population": 125316
   },
   {
+    "region": "Norrköping",
+    "month": "2009M02",
+    "population": 128163
+  },
+  {
     "region": "Jönköping",
     "month": "2009M03",
     "population": 125414
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M03",
+    "population": 128256
   },
   {
     "region": "Jönköping",
@@ -2095,9 +1115,19 @@
     "population": 125480
   },
   {
+    "region": "Norrköping",
+    "month": "2009M04",
+    "population": 128329
+  },
+  {
     "region": "Jönköping",
     "month": "2009M05",
     "population": 125487
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M05",
+    "population": 128395
   },
   {
     "region": "Jönköping",
@@ -2105,9 +1135,19 @@
     "population": 125439
   },
   {
+    "region": "Norrköping",
+    "month": "2009M06",
+    "population": 128537
+  },
+  {
     "region": "Jönköping",
     "month": "2009M07",
     "population": 125588
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M07",
+    "population": 128603
   },
   {
     "region": "Jönköping",
@@ -2115,9 +1155,19 @@
     "population": 125948
   },
   {
+    "region": "Norrköping",
+    "month": "2009M08",
+    "population": 128854
+  },
+  {
     "region": "Jönköping",
     "month": "2009M09",
     "population": 126113
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M09",
+    "population": 128992
   },
   {
     "region": "Jönköping",
@@ -2125,9 +1175,19 @@
     "population": 126254
   },
   {
+    "region": "Norrköping",
+    "month": "2009M10",
+    "population": 129133
+  },
+  {
     "region": "Jönköping",
     "month": "2009M11",
     "population": 126372
+  },
+  {
+    "region": "Norrköping",
+    "month": "2009M11",
+    "population": 129186
   },
   {
     "region": "Jönköping",
@@ -2135,9 +1195,19 @@
     "population": 126331
   },
   {
+    "region": "Norrköping",
+    "month": "2009M12",
+    "population": 129254
+  },
+  {
     "region": "Jönköping",
     "month": "2010M01",
     "population": 126382
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M01",
+    "population": 129364
   },
   {
     "region": "Jönköping",
@@ -2145,9 +1215,19 @@
     "population": 126526
   },
   {
+    "region": "Norrköping",
+    "month": "2010M02",
+    "population": 129336
+  },
+  {
     "region": "Jönköping",
     "month": "2010M03",
     "population": 126612
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M03",
+    "population": 129421
   },
   {
     "region": "Jönköping",
@@ -2155,9 +1235,19 @@
     "population": 126637
   },
   {
+    "region": "Norrköping",
+    "month": "2010M04",
+    "population": 129440
+  },
+  {
     "region": "Jönköping",
     "month": "2010M05",
     "population": 126630
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M05",
+    "population": 129534
   },
   {
     "region": "Jönköping",
@@ -2165,9 +1255,19 @@
     "population": 126649
   },
   {
+    "region": "Norrköping",
+    "month": "2010M06",
+    "population": 129566
+  },
+  {
     "region": "Jönköping",
     "month": "2010M07",
     "population": 126715
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M07",
+    "population": 129702
   },
   {
     "region": "Jönköping",
@@ -2175,9 +1275,19 @@
     "population": 126907
   },
   {
+    "region": "Norrköping",
+    "month": "2010M08",
+    "population": 129814
+  },
+  {
     "region": "Jönköping",
     "month": "2010M09",
     "population": 127198
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M09",
+    "population": 129867
   },
   {
     "region": "Jönköping",
@@ -2185,9 +1295,19 @@
     "population": 127344
   },
   {
+    "region": "Norrköping",
+    "month": "2010M10",
+    "population": 129989
+  },
+  {
     "region": "Jönköping",
     "month": "2010M11",
     "population": 127359
+  },
+  {
+    "region": "Norrköping",
+    "month": "2010M11",
+    "population": 130028
   },
   {
     "region": "Jönköping",
@@ -2195,9 +1315,19 @@
     "population": 127382
   },
   {
+    "region": "Norrköping",
+    "month": "2010M12",
+    "population": 130050
+  },
+  {
     "region": "Jönköping",
     "month": "2011M01",
     "population": 127504
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M01",
+    "population": 130100
   },
   {
     "region": "Jönköping",
@@ -2205,9 +1335,19 @@
     "population": 127504
   },
   {
+    "region": "Norrköping",
+    "month": "2011M02",
+    "population": 130088
+  },
+  {
     "region": "Jönköping",
     "month": "2011M03",
     "population": 127600
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M03",
+    "population": 130099
   },
   {
     "region": "Jönköping",
@@ -2215,9 +1355,19 @@
     "population": 127640
   },
   {
+    "region": "Norrköping",
+    "month": "2011M04",
+    "population": 130108
+  },
+  {
     "region": "Jönköping",
     "month": "2011M05",
     "population": 127680
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M05",
+    "population": 130162
   },
   {
     "region": "Jönköping",
@@ -2225,9 +1375,19 @@
     "population": 127750
   },
   {
+    "region": "Norrköping",
+    "month": "2011M06",
+    "population": 130289
+  },
+  {
     "region": "Jönköping",
     "month": "2011M07",
     "population": 127833
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M07",
+    "population": 130400
   },
   {
     "region": "Jönköping",
@@ -2235,9 +1395,19 @@
     "population": 128050
   },
   {
+    "region": "Norrköping",
+    "month": "2011M08",
+    "population": 130592
+  },
+  {
     "region": "Jönköping",
     "month": "2011M09",
     "population": 128230
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M09",
+    "population": 130671
   },
   {
     "region": "Jönköping",
@@ -2245,9 +1415,19 @@
     "population": 128273
   },
   {
+    "region": "Norrköping",
+    "month": "2011M10",
+    "population": 130641
+  },
+  {
     "region": "Jönköping",
     "month": "2011M11",
     "population": 128288
+  },
+  {
+    "region": "Norrköping",
+    "month": "2011M11",
+    "population": 130662
   },
   {
     "region": "Jönköping",
@@ -2255,9 +1435,19 @@
     "population": 128305
   },
   {
+    "region": "Norrköping",
+    "month": "2011M12",
+    "population": 130623
+  },
+  {
     "region": "Jönköping",
     "month": "2012M01",
     "population": 128374
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M01",
+    "population": 130654
   },
   {
     "region": "Jönköping",
@@ -2265,9 +1455,19 @@
     "population": 128381
   },
   {
+    "region": "Norrköping",
+    "month": "2012M02",
+    "population": 130681
+  },
+  {
     "region": "Jönköping",
     "month": "2012M03",
     "population": 128447
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M03",
+    "population": 130786
   },
   {
     "region": "Jönköping",
@@ -2275,9 +1475,19 @@
     "population": 128504
   },
   {
+    "region": "Norrköping",
+    "month": "2012M04",
+    "population": 130826
+  },
+  {
     "region": "Jönköping",
     "month": "2012M05",
     "population": 128497
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M05",
+    "population": 131035
   },
   {
     "region": "Jönköping",
@@ -2285,9 +1495,19 @@
     "population": 128501
   },
   {
+    "region": "Norrköping",
+    "month": "2012M06",
+    "population": 131169
+  },
+  {
     "region": "Jönköping",
     "month": "2012M07",
     "population": 128632
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M07",
+    "population": 131436
   },
   {
     "region": "Jönköping",
@@ -2295,9 +1515,19 @@
     "population": 128967
   },
   {
+    "region": "Norrköping",
+    "month": "2012M08",
+    "population": 131677
+  },
+  {
     "region": "Jönköping",
     "month": "2012M09",
     "population": 129162
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M09",
+    "population": 131804
   },
   {
     "region": "Jönköping",
@@ -2305,9 +1535,19 @@
     "population": 129327
   },
   {
+    "region": "Norrköping",
+    "month": "2012M10",
+    "population": 131932
+  },
+  {
     "region": "Jönköping",
     "month": "2012M11",
     "population": 129437
+  },
+  {
+    "region": "Norrköping",
+    "month": "2012M11",
+    "population": 131963
   },
   {
     "region": "Jönköping",
@@ -2315,9 +1555,19 @@
     "population": 129478
   },
   {
+    "region": "Norrköping",
+    "month": "2012M12",
+    "population": 132124
+  },
+  {
     "region": "Jönköping",
     "month": "2013M01",
     "population": 129525
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M01",
+    "population": 132341
   },
   {
     "region": "Jönköping",
@@ -2325,9 +1575,19 @@
     "population": 129625
   },
   {
+    "region": "Norrköping",
+    "month": "2013M02",
+    "population": 132422
+  },
+  {
     "region": "Jönköping",
     "month": "2013M03",
     "population": 129686
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M03",
+    "population": 132499
   },
   {
     "region": "Jönköping",
@@ -2335,9 +1595,19 @@
     "population": 129788
   },
   {
+    "region": "Norrköping",
+    "month": "2013M04",
+    "population": 132674
+  },
+  {
     "region": "Jönköping",
     "month": "2013M05",
     "population": 129888
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M05",
+    "population": 132805
   },
   {
     "region": "Jönköping",
@@ -2345,9 +1615,19 @@
     "population": 129889
   },
   {
+    "region": "Norrköping",
+    "month": "2013M06",
+    "population": 133012
+  },
+  {
     "region": "Jönköping",
     "month": "2013M07",
     "population": 129901
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M07",
+    "population": 133105
   },
   {
     "region": "Jönköping",
@@ -2355,9 +1635,19 @@
     "population": 130145
   },
   {
+    "region": "Norrköping",
+    "month": "2013M08",
+    "population": 133280
+  },
+  {
     "region": "Jönköping",
     "month": "2013M09",
     "population": 130413
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M09",
+    "population": 133444
   },
   {
     "region": "Jönköping",
@@ -2365,9 +1655,19 @@
     "population": 130595
   },
   {
+    "region": "Norrköping",
+    "month": "2013M10",
+    "population": 133673
+  },
+  {
     "region": "Jönköping",
     "month": "2013M11",
     "population": 130721
+  },
+  {
+    "region": "Norrköping",
+    "month": "2013M11",
+    "population": 133761
   },
   {
     "region": "Jönköping",
@@ -2375,9 +1675,19 @@
     "population": 130798
   },
   {
+    "region": "Norrköping",
+    "month": "2013M12",
+    "population": 133749
+  },
+  {
     "region": "Jönköping",
     "month": "2014M01",
     "population": 130907
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M01",
+    "population": 133822
   },
   {
     "region": "Jönköping",
@@ -2385,9 +1695,19 @@
     "population": 131003
   },
   {
+    "region": "Norrköping",
+    "month": "2014M02",
+    "population": 133928
+  },
+  {
     "region": "Jönköping",
     "month": "2014M03",
     "population": 131101
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M03",
+    "population": 134065
   },
   {
     "region": "Jönköping",
@@ -2395,9 +1715,19 @@
     "population": 131171
   },
   {
+    "region": "Norrköping",
+    "month": "2014M04",
+    "population": 134194
+  },
+  {
     "region": "Jönköping",
     "month": "2014M05",
     "population": 131170
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M05",
+    "population": 134335
   },
   {
     "region": "Jönköping",
@@ -2405,9 +1735,19 @@
     "population": 131150
   },
   {
+    "region": "Norrköping",
+    "month": "2014M06",
+    "population": 134527
+  },
+  {
     "region": "Jönköping",
     "month": "2014M07",
     "population": 131328
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M07",
+    "population": 134641
   },
   {
     "region": "Jönköping",
@@ -2415,9 +1755,19 @@
     "population": 131593
   },
   {
+    "region": "Norrköping",
+    "month": "2014M08",
+    "population": 134785
+  },
+  {
     "region": "Jönköping",
     "month": "2014M09",
     "population": 131847
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M09",
+    "population": 134947
   },
   {
     "region": "Jönköping",
@@ -2425,9 +1775,19 @@
     "population": 132071
   },
   {
+    "region": "Norrköping",
+    "month": "2014M10",
+    "population": 135099
+  },
+  {
     "region": "Jönköping",
     "month": "2014M11",
     "population": 132051
+  },
+  {
+    "region": "Norrköping",
+    "month": "2014M11",
+    "population": 135202
   },
   {
     "region": "Jönköping",
@@ -2435,9 +1795,19 @@
     "population": 132140
   },
   {
+    "region": "Norrköping",
+    "month": "2014M12",
+    "population": 135283
+  },
+  {
     "region": "Jönköping",
     "month": "2015M01",
     "population": 132164
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M01",
+    "population": 135420
   },
   {
     "region": "Jönköping",
@@ -2445,9 +1815,19 @@
     "population": 132279
   },
   {
+    "region": "Norrköping",
+    "month": "2015M02",
+    "population": 135558
+  },
+  {
     "region": "Jönköping",
     "month": "2015M03",
     "population": 132349
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M03",
+    "population": 135679
   },
   {
     "region": "Jönköping",
@@ -2455,9 +1835,19 @@
     "population": 132409
   },
   {
+    "region": "Norrköping",
+    "month": "2015M04",
+    "population": 135834
+  },
+  {
     "region": "Jönköping",
     "month": "2015M05",
     "population": 132412
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M05",
+    "population": 135953
   },
   {
     "region": "Jönköping",
@@ -2465,9 +1855,19 @@
     "population": 132322
   },
   {
+    "region": "Norrköping",
+    "month": "2015M06",
+    "population": 136124
+  },
+  {
     "region": "Jönköping",
     "month": "2015M07",
     "population": 132442
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M07",
+    "population": 136302
   },
   {
     "region": "Jönköping",
@@ -2475,9 +1875,19 @@
     "population": 132796
   },
   {
+    "region": "Norrköping",
+    "month": "2015M08",
+    "population": 136447
+  },
+  {
     "region": "Jönköping",
     "month": "2015M09",
     "population": 133136
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M09",
+    "population": 136678
   },
   {
     "region": "Jönköping",
@@ -2485,9 +1895,19 @@
     "population": 133231
   },
   {
+    "region": "Norrköping",
+    "month": "2015M10",
+    "population": 136797
+  },
+  {
     "region": "Jönköping",
     "month": "2015M11",
     "population": 133297
+  },
+  {
+    "region": "Norrköping",
+    "month": "2015M11",
+    "population": 136989
   },
   {
     "region": "Jönköping",
@@ -2495,9 +1915,19 @@
     "population": 133310
   },
   {
+    "region": "Norrköping",
+    "month": "2015M12",
+    "population": 137035
+  },
+  {
     "region": "Jönköping",
     "month": "2016M01",
     "population": 133379
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M01",
+    "population": 137095
   },
   {
     "region": "Jönköping",
@@ -2505,9 +1935,19 @@
     "population": 133483
   },
   {
+    "region": "Norrköping",
+    "month": "2016M02",
+    "population": 137146
+  },
+  {
     "region": "Jönköping",
     "month": "2016M03",
     "population": 133597
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M03",
+    "population": 137326
   },
   {
     "region": "Jönköping",
@@ -2515,9 +1955,19 @@
     "population": 133711
   },
   {
+    "region": "Norrköping",
+    "month": "2016M04",
+    "population": 137514
+  },
+  {
     "region": "Jönköping",
     "month": "2016M05",
     "population": 133782
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M05",
+    "population": 137773
   },
   {
     "region": "Jönköping",
@@ -2525,9 +1975,19 @@
     "population": 133769
   },
   {
+    "region": "Norrköping",
+    "month": "2016M06",
+    "population": 137985
+  },
+  {
     "region": "Jönköping",
     "month": "2016M07",
     "population": 133931
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M07",
+    "population": 138230
   },
   {
     "region": "Jönköping",
@@ -2535,9 +1995,19 @@
     "population": 134409
   },
   {
+    "region": "Norrköping",
+    "month": "2016M08",
+    "population": 138501
+  },
+  {
     "region": "Jönköping",
     "month": "2016M09",
     "population": 134785
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M09",
+    "population": 138625
   },
   {
     "region": "Jönköping",
@@ -2545,9 +2015,19 @@
     "population": 135061
   },
   {
+    "region": "Norrköping",
+    "month": "2016M10",
+    "population": 138813
+  },
+  {
     "region": "Jönköping",
     "month": "2016M11",
     "population": 135268
+  },
+  {
+    "region": "Norrköping",
+    "month": "2016M11",
+    "population": 139023
   },
   {
     "region": "Jönköping",
@@ -2555,9 +2035,19 @@
     "population": 135297
   },
   {
+    "region": "Norrköping",
+    "month": "2016M12",
+    "population": 139363
+  },
+  {
     "region": "Jönköping",
     "month": "2017M01",
     "population": 135534
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M01",
+    "population": 139559
   },
   {
     "region": "Jönköping",
@@ -2565,9 +2055,19 @@
     "population": 135679
   },
   {
+    "region": "Norrköping",
+    "month": "2017M02",
+    "population": 139728
+  },
+  {
     "region": "Jönköping",
     "month": "2017M03",
     "population": 135783
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M03",
+    "population": 139950
   },
   {
     "region": "Jönköping",
@@ -2575,9 +2075,19 @@
     "population": 135892
   },
   {
+    "region": "Norrköping",
+    "month": "2017M04",
+    "population": 140031
+  },
+  {
     "region": "Jönköping",
     "month": "2017M05",
     "population": 136084
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M05",
+    "population": 140206
   },
   {
     "region": "Jönköping",
@@ -2585,9 +2095,19 @@
     "population": 136177
   },
   {
+    "region": "Norrköping",
+    "month": "2017M06",
+    "population": 140338
+  },
+  {
     "region": "Jönköping",
     "month": "2017M07",
     "population": 136247
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M07",
+    "population": 140556
   },
   {
     "region": "Jönköping",
@@ -2595,9 +2115,19 @@
     "population": 136618
   },
   {
+    "region": "Norrköping",
+    "month": "2017M08",
+    "population": 140686
+  },
+  {
     "region": "Jönköping",
     "month": "2017M09",
     "population": 137031
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M09",
+    "population": 140780
   },
   {
     "region": "Jönköping",
@@ -2605,9 +2135,19 @@
     "population": 137150
   },
   {
+    "region": "Norrköping",
+    "month": "2017M10",
+    "population": 140842
+  },
+  {
     "region": "Jönköping",
     "month": "2017M11",
     "population": 137266
+  },
+  {
+    "region": "Norrköping",
+    "month": "2017M11",
+    "population": 140832
   },
   {
     "region": "Jönköping",
@@ -2615,9 +2155,19 @@
     "population": 137481
   },
   {
+    "region": "Norrköping",
+    "month": "2017M12",
+    "population": 140927
+  },
+  {
     "region": "Jönköping",
     "month": "2018M01",
     "population": 137604
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M01",
+    "population": 140931
   },
   {
     "region": "Jönköping",
@@ -2625,9 +2175,19 @@
     "population": 137725
   },
   {
+    "region": "Norrköping",
+    "month": "2018M02",
+    "population": 140959
+  },
+  {
     "region": "Jönköping",
     "month": "2018M03",
     "population": 137863
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M03",
+    "population": 140991
   },
   {
     "region": "Jönköping",
@@ -2635,9 +2195,19 @@
     "population": 138072
   },
   {
+    "region": "Norrköping",
+    "month": "2018M04",
+    "population": 141063
+  },
+  {
     "region": "Jönköping",
     "month": "2018M05",
     "population": 138137
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M05",
+    "population": 141147
   },
   {
     "region": "Jönköping",
@@ -2645,9 +2215,19 @@
     "population": 138115
   },
   {
+    "region": "Norrköping",
+    "month": "2018M06",
+    "population": 141319
+  },
+  {
     "region": "Jönköping",
     "month": "2018M07",
     "population": 138204
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M07",
+    "population": 141367
   },
   {
     "region": "Jönköping",
@@ -2655,9 +2235,19 @@
     "population": 138621
   },
   {
+    "region": "Norrköping",
+    "month": "2018M08",
+    "population": 141476
+  },
+  {
     "region": "Jönköping",
     "month": "2018M09",
     "population": 138971
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M09",
+    "population": 141441
   },
   {
     "region": "Jönköping",
@@ -2665,9 +2255,19 @@
     "population": 139132
   },
   {
+    "region": "Norrköping",
+    "month": "2018M10",
+    "population": 141542
+  },
+  {
     "region": "Jönköping",
     "month": "2018M11",
     "population": 139183
+  },
+  {
+    "region": "Norrköping",
+    "month": "2018M11",
+    "population": 141622
   },
   {
     "region": "Jönköping",
@@ -2675,9 +2275,19 @@
     "population": 139222
   },
   {
+    "region": "Norrköping",
+    "month": "2018M12",
+    "population": 141676
+  },
+  {
     "region": "Jönköping",
     "month": "2019M01",
     "population": 139475
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M01",
+    "population": 141739
   },
   {
     "region": "Jönköping",
@@ -2685,9 +2295,19 @@
     "population": 139639
   },
   {
+    "region": "Norrköping",
+    "month": "2019M02",
+    "population": 141861
+  },
+  {
     "region": "Jönköping",
     "month": "2019M03",
     "population": 139735
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M03",
+    "population": 141987
   },
   {
     "region": "Jönköping",
@@ -2695,9 +2315,19 @@
     "population": 139777
   },
   {
+    "region": "Norrköping",
+    "month": "2019M04",
+    "population": 142129
+  },
+  {
     "region": "Jönköping",
     "month": "2019M05",
     "population": 139821
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M05",
+    "population": 142228
   },
   {
     "region": "Jönköping",
@@ -2705,9 +2335,19 @@
     "population": 139862
   },
   {
+    "region": "Norrköping",
+    "month": "2019M06",
+    "population": 142401
+  },
+  {
     "region": "Jönköping",
     "month": "2019M07",
     "population": 140034
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M07",
+    "population": 142608
   },
   {
     "region": "Jönköping",
@@ -2715,9 +2355,19 @@
     "population": 140503
   },
   {
+    "region": "Norrköping",
+    "month": "2019M08",
+    "population": 142745
+  },
+  {
     "region": "Jönköping",
     "month": "2019M09",
     "population": 140797
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M09",
+    "population": 142818
   },
   {
     "region": "Jönköping",
@@ -2725,9 +2375,19 @@
     "population": 140903
   },
   {
+    "region": "Norrköping",
+    "month": "2019M10",
+    "population": 142908
+  },
+  {
     "region": "Jönköping",
     "month": "2019M11",
     "population": 141002
+  },
+  {
+    "region": "Norrköping",
+    "month": "2019M11",
+    "population": 143040
   },
   {
     "region": "Jönköping",
@@ -2735,9 +2395,19 @@
     "population": 141081
   },
   {
+    "region": "Norrköping",
+    "month": "2019M12",
+    "population": 143171
+  },
+  {
     "region": "Jönköping",
     "month": "2020M01",
     "population": 141249
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M01",
+    "population": 143235
   },
   {
     "region": "Jönköping",
@@ -2745,9 +2415,19 @@
     "population": 141399
   },
   {
+    "region": "Norrköping",
+    "month": "2020M02",
+    "population": 143284
+  },
+  {
     "region": "Jönköping",
     "month": "2020M03",
     "population": 141485
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M03",
+    "population": 143333
   },
   {
     "region": "Jönköping",
@@ -2755,9 +2435,19 @@
     "population": 141439
   },
   {
+    "region": "Norrköping",
+    "month": "2020M04",
+    "population": 143216
+  },
+  {
     "region": "Jönköping",
     "month": "2020M05",
     "population": 141496
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M05",
+    "population": 143265
   },
   {
     "region": "Jönköping",
@@ -2765,9 +2455,19 @@
     "population": 141496
   },
   {
+    "region": "Norrköping",
+    "month": "2020M06",
+    "population": 143270
+  },
+  {
     "region": "Jönköping",
     "month": "2020M07",
     "population": 141612
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M07",
+    "population": 143419
   },
   {
     "region": "Jönköping",
@@ -2775,9 +2475,19 @@
     "population": 142115
   },
   {
+    "region": "Norrköping",
+    "month": "2020M08",
+    "population": 143562
+  },
+  {
     "region": "Jönköping",
     "month": "2020M09",
     "population": 142316
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M09",
+    "population": 143574
   },
   {
     "region": "Jönköping",
@@ -2785,9 +2495,19 @@
     "population": 142475
   },
   {
+    "region": "Norrköping",
+    "month": "2020M10",
+    "population": 143495
+  },
+  {
     "region": "Jönköping",
     "month": "2020M11",
     "population": 142487
+  },
+  {
+    "region": "Norrköping",
+    "month": "2020M11",
+    "population": 143501
   },
   {
     "region": "Jönköping",
@@ -2795,9 +2515,19 @@
     "population": 142427
   },
   {
+    "region": "Norrköping",
+    "month": "2020M12",
+    "population": 143478
+  },
+  {
     "region": "Jönköping",
     "month": "2021M01",
     "population": 142459
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M01",
+    "population": 143489
   },
   {
     "region": "Jönköping",
@@ -2805,9 +2535,19 @@
     "population": 142557
   },
   {
+    "region": "Norrköping",
+    "month": "2021M02",
+    "population": 143562
+  },
+  {
     "region": "Jönköping",
     "month": "2021M03",
     "population": 142630
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M03",
+    "population": 143599
   },
   {
     "region": "Jönköping",
@@ -2815,9 +2555,19 @@
     "population": 142677
   },
   {
+    "region": "Norrköping",
+    "month": "2021M04",
+    "population": 143669
+  },
+  {
     "region": "Jönköping",
     "month": "2021M05",
     "population": 142758
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M05",
+    "population": 143785
   },
   {
     "region": "Jönköping",
@@ -2825,9 +2575,19 @@
     "population": 142734
   },
   {
+    "region": "Norrköping",
+    "month": "2021M06",
+    "population": 143872
+  },
+  {
     "region": "Jönköping",
     "month": "2021M07",
     "population": 142783
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M07",
+    "population": 143935
   },
   {
     "region": "Jönköping",
@@ -2835,9 +2595,19 @@
     "population": 143236
   },
   {
+    "region": "Norrköping",
+    "month": "2021M08",
+    "population": 144079
+  },
+  {
     "region": "Jönköping",
     "month": "2021M09",
     "population": 143415
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M09",
+    "population": 144128
   },
   {
     "region": "Jönköping",
@@ -2845,9 +2615,19 @@
     "population": 143498
   },
   {
+    "region": "Norrköping",
+    "month": "2021M10",
+    "population": 144309
+  },
+  {
     "region": "Jönköping",
     "month": "2021M11",
     "population": 143546
+  },
+  {
+    "region": "Norrköping",
+    "month": "2021M11",
+    "population": 144450
   },
   {
     "region": "Jönköping",
@@ -2855,9 +2635,19 @@
     "population": 143579
   },
   {
+    "region": "Norrköping",
+    "month": "2021M12",
+    "population": 144458
+  },
+  {
     "region": "Jönköping",
     "month": "2022M01",
     "population": 143692
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M01",
+    "population": 144478
   },
   {
     "region": "Jönköping",
@@ -2865,9 +2655,19 @@
     "population": 143814
   },
   {
+    "region": "Norrköping",
+    "month": "2022M02",
+    "population": 144553
+  },
+  {
     "region": "Jönköping",
     "month": "2022M03",
     "population": 143901
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M03",
+    "population": 144610
   },
   {
     "region": "Jönköping",
@@ -2875,9 +2675,19 @@
     "population": 143994
   },
   {
+    "region": "Norrköping",
+    "month": "2022M04",
+    "population": 144629
+  },
+  {
     "region": "Jönköping",
     "month": "2022M05",
     "population": 144123
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M05",
+    "population": 144671
   },
   {
     "region": "Jönköping",
@@ -2885,9 +2695,19 @@
     "population": 144070
   },
   {
+    "region": "Norrköping",
+    "month": "2022M06",
+    "population": 144845
+  },
+  {
     "region": "Jönköping",
     "month": "2022M07",
     "population": 144101
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M07",
+    "population": 144993
   },
   {
     "region": "Jönköping",
@@ -2895,9 +2715,19 @@
     "population": 144547
   },
   {
+    "region": "Norrköping",
+    "month": "2022M08",
+    "population": 145160
+  },
+  {
     "region": "Jönköping",
     "month": "2022M09",
     "population": 144699
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M09",
+    "population": 145176
   },
   {
     "region": "Jönköping",
@@ -2905,9 +2735,19 @@
     "population": 144874
   },
   {
+    "region": "Norrköping",
+    "month": "2022M10",
+    "population": 145152
+  },
+  {
     "region": "Jönköping",
     "month": "2022M11",
     "population": 145049
+  },
+  {
+    "region": "Norrköping",
+    "month": "2022M11",
+    "population": 145180
   },
   {
     "region": "Jönköping",
@@ -2915,9 +2755,19 @@
     "population": 145114
   },
   {
+    "region": "Norrköping",
+    "month": "2022M12",
+    "population": 145120
+  },
+  {
     "region": "Jönköping",
     "month": "2023M01",
     "population": 145226
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M01",
+    "population": 145135
   },
   {
     "region": "Jönköping",
@@ -2925,9 +2775,19 @@
     "population": 145331
   },
   {
+    "region": "Norrköping",
+    "month": "2023M02",
+    "population": 145194
+  },
+  {
     "region": "Jönköping",
     "month": "2023M03",
     "population": 145391
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M03",
+    "population": 145196
   },
   {
     "region": "Jönköping",
@@ -2935,9 +2795,19 @@
     "population": 145507
   },
   {
+    "region": "Norrköping",
+    "month": "2023M04",
+    "population": 145303
+  },
+  {
     "region": "Jönköping",
     "month": "2023M05",
     "population": 145609
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M05",
+    "population": 145308
   },
   {
     "region": "Jönköping",
@@ -2945,9 +2815,19 @@
     "population": 145609
   },
   {
+    "region": "Norrköping",
+    "month": "2023M06",
+    "population": 145418
+  },
+  {
     "region": "Jönköping",
     "month": "2023M07",
     "population": 145620
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M07",
+    "population": 145388
   },
   {
     "region": "Jönköping",
@@ -2955,9 +2835,19 @@
     "population": 145950
   },
   {
+    "region": "Norrköping",
+    "month": "2023M08",
+    "population": 145320
+  },
+  {
     "region": "Jönköping",
     "month": "2023M09",
     "population": 146197
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M09",
+    "population": 145283
   },
   {
     "region": "Jönköping",
@@ -2965,9 +2855,19 @@
     "population": 146266
   },
   {
+    "region": "Norrköping",
+    "month": "2023M10",
+    "population": 145219
+  },
+  {
     "region": "Jönköping",
     "month": "2023M11",
     "population": 146276
+  },
+  {
+    "region": "Norrköping",
+    "month": "2023M11",
+    "population": 145166
   },
   {
     "region": "Jönköping",
@@ -2975,9 +2875,19 @@
     "population": 146161
   },
   {
+    "region": "Norrköping",
+    "month": "2023M12",
+    "population": 145163
+  },
+  {
     "region": "Jönköping",
     "month": "2024M01",
     "population": 146179
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M01",
+    "population": 145091
   },
   {
     "region": "Jönköping",
@@ -2985,9 +2895,19 @@
     "population": 146184
   },
   {
+    "region": "Norrköping",
+    "month": "2024M02",
+    "population": 145022
+  },
+  {
     "region": "Jönköping",
     "month": "2024M03",
     "population": 146214
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M03",
+    "population": 144955
   },
   {
     "region": "Jönköping",
@@ -2995,9 +2915,19 @@
     "population": 146297
   },
   {
+    "region": "Norrköping",
+    "month": "2024M04",
+    "population": 144890
+  },
+  {
     "region": "Jönköping",
     "month": "2024M05",
     "population": 146370
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M05",
+    "population": 144866
   },
   {
     "region": "Jönköping",
@@ -3005,9 +2935,19 @@
     "population": 146312
   },
   {
+    "region": "Norrköping",
+    "month": "2024M06",
+    "population": 144938
+  },
+  {
     "region": "Jönköping",
     "month": "2024M07",
     "population": 146335
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M07",
+    "population": 145024
   },
   {
     "region": "Jönköping",
@@ -3015,9 +2955,19 @@
     "population": 146911
   },
   {
+    "region": "Norrköping",
+    "month": "2024M08",
+    "population": 145023
+  },
+  {
     "region": "Jönköping",
     "month": "2024M09",
     "population": 147292
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M09",
+    "population": 144932
   },
   {
     "region": "Jönköping",
@@ -3025,9 +2975,19 @@
     "population": 147486
   },
   {
+    "region": "Norrköping",
+    "month": "2024M10",
+    "population": 144999
+  },
+  {
     "region": "Jönköping",
     "month": "2024M11",
     "population": 147619
+  },
+  {
+    "region": "Norrköping",
+    "month": "2024M11",
+    "population": 144972
   },
   {
     "region": "Jönköping",
@@ -3035,13 +2995,78 @@
     "population": 147654
   },
   {
+    "region": "Norrköping",
+    "month": "2024M12",
+    "population": 144980
+  },
+  {
     "region": "Jönköping",
     "month": "2025M01",
     "population": 147761
   },
   {
+    "region": "Norrköping",
+    "month": "2025M01",
+    "population": 144978
+  },
+  {
     "region": "Jönköping",
     "month": "2025M02",
     "population": 147800
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M02",
+    "population": 144951
+  },
+  {
+    "region": "Jönköping",
+    "month": "2025M03",
+    "population": 147711
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M03",
+    "population": 144872
+  },
+  {
+    "region": "Jönköping",
+    "month": "2025M04",
+    "population": 147736
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M04",
+    "population": 144902
+  },
+  {
+    "region": "Jönköping",
+    "month": "2025M05",
+    "population": 147707
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M05",
+    "population": 144853
+  },
+  {
+    "region": "Jönköping",
+    "month": "2025M06",
+    "population": 147525
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M06",
+    "population": 144939
+  },
+  {
+    "region": "Jönköping",
+    "month": "2025M07",
+    "population": 147553
+  },
+  {
+    "region": "Norrköping",
+    "month": "2025M07",
+    "population": 144997
   }
 ]
